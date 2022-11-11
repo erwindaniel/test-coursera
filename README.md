@@ -1,2 +1,2 @@
 # test-coursera
-for test week 3 coursera course git
+I am editing the README file. Adding some more details about the project description.
